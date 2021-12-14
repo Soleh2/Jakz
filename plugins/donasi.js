@@ -1,8 +1,6 @@
 let handler = async m => m.reply(`
 ╭─「 Donasi 」
-│ • Indosat [082114499086]
-│ • Gopay [082114499086]
-│ • Saweria [https://saweria.co/botstyle]
+│ • Gopay/Dana [081252848955]
 ╰────
 ╭─「 Hubungi 」
 │ > Ingin donasi? Wa.me/6282114499086
