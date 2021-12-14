@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/KihEAYjKr04LI4uUrbiiip']
+global.linkGC = ['https://chat.whatsapp.com/CTgARPa75SL9MbBMuOmZxH']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '62895368900456': { // put your number here
-    name: 'benniismael',
+  '6281252848955': { // put your number here
+    name: 'Nando',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -40,7 +40,7 @@ global.APIKeys = { // APIKey Here
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
   'https://bsbt-api-rest.herokuapp.com': 'benniismaelapikey',
   'https://botstyle-api.herokuapp.com': 'daftar dulu yaa',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.xyz': 'nandowangy',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://hardianto-chan.herokuapp.com': 'hardianto'
 }
